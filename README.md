@@ -1,6 +1,8 @@
 <b>Notification</b>
 
-![image](https://github.com/ssakibs04/CRUD-operation-Using-ASP.NET-Core-6.0/assets/75657248/822c035c-aa85-4bd9-b123-6b03699cda3f)
+![image](https://github.com/ssakibs04/CRUD-operation-Using-ASP.NET-Core-6.0/assets/75657248/822c035c-aa85-4bd9-b123-6b03699cda3f) ![image](https://github.com/ssakibs04/CRUD-operation-Using-ASP.NET-Core-6.0/assets/75657248/a1e4faa7-bcde-470d-9cb1-bb9be2e1d8d9) ![image](https://github.com/ssakibs04/CRUD-operation-Using-ASP.NET-Core-6.0/assets/75657248/22a91a98-0162-4811-8b22-cc60d964c3b8)
+
+
 
 <b>Index of Category Page</b>
 ![image](https://github.com/ssakibs04/CRUD-operation-Using-ASP.NET-Core-6.0/assets/75657248/c5f9b76b-bcef-4858-80e8-db585489a5b3)
