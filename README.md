@@ -15,7 +15,9 @@
 ![image](https://github.com/ssakibs04/CRUD-operation-Using-ASP.NET-Core-6.0/assets/75657248/347a94b8-3b94-4671-8d09-6e12118829a0)
 
 
-<b>Update Page</b>
-![image](https://github.com/ssakibs04/CRUD-operation-Using-ASP.NET-Core-6.0/assets/75657248/06bb1689-b604-4822-a575-0c2eed7c8300)
+<b>Delete Page</b>
+
+![image](https://github.com/ssakibs04/CRUD-operation-Using-ASP.NET-Core-6.0/assets/75657248/3c4aefe5-81e5-4ebd-bc53-45fcd686fa82)
+
 
 
