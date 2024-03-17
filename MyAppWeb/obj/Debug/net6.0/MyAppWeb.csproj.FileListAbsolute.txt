@@ -247,3 +247,8 @@ E:\Asp.Net Core\MyApp\MyAppWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.
 E:\Asp.Net Core\MyApp\MyAppWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 E:\Asp.Net Core\MyApp\MyAppWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\Asp.Net Core\MyApp\MyAppWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Asp.Net Core\MyApp\MyAppWeb\obj\Debug\net6.0\MyAppWeb.sourcelink.json
+E:\Asp.Net Core\MyApp\MyAppWeb\bin\Debug\net6.0\MyApp.DataAccessLayer.dll
+E:\Asp.Net Core\MyApp\MyAppWeb\bin\Debug\net6.0\MyApp.Models.dll
+E:\Asp.Net Core\MyApp\MyAppWeb\bin\Debug\net6.0\MyApp.DataAccessLayer.pdb
+E:\Asp.Net Core\MyApp\MyAppWeb\bin\Debug\net6.0\MyApp.Models.pdb

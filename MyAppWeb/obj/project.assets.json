@@ -3728,6 +3728,32 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "MyApp.DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.28",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.28",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.28",
+          "MyApp.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyApp.DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyApp.DataAccessLayer.dll": {}
+        }
+      },
+      "MyApp.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MyApp.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyApp.Models.dll": {}
+        }
       }
     }
   },
@@ -10676,6 +10702,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "MyApp.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../MyApp.DataAccessLayer/MyApp.DataAccessLayer.csproj",
+      "msbuildProject": "../MyApp.DataAccessLayer/MyApp.DataAccessLayer.csproj"
+    },
+    "MyApp.Models/1.0.0": {
+      "type": "project",
+      "path": "../MyAppModels/MyApp.Models.csproj",
+      "msbuildProject": "../MyAppModels/MyApp.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -10683,7 +10719,8 @@
       "Microsoft.EntityFrameworkCore >= 6.0.28",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.28",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.28",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16",
+      "MyApp.DataAccessLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -10712,7 +10749,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Asp.Net Core\\MyApp\\MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj": {
+              "projectPath": "E:\\Asp.Net Core\\MyApp\\MyApp.DataAccessLayer\\MyApp.DataAccessLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
